@@ -1,5 +1,5 @@
 /*
- * AtCoder Typical Contest 001
+ * AtCoder Beginner Contest 113
  * 2018/11/04
  * B - Palace
  *
